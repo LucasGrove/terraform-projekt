@@ -1,4 +1,4 @@
 resource "local_file" "name" {
-  filename = "/FEGTG/Terraform/hej.txt"
-  content  = "Hej!"
+  filename = "hej.txt"
+  content  = "Hello World!"
 }
